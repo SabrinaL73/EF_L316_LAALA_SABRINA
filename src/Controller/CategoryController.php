@@ -1,3 +1,4 @@
+<?php
 namespace app\Controller;
 use app\Entity\Category;
 
